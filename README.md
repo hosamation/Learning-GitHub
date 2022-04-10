@@ -2,7 +2,12 @@
 
 16 [Learning GitHub](https://www.linkedin.com/learning/learning-github) Course
 
-Check Become a Programmer: Foundations [Progress](https://github.com/hosamation/Become-a-Programmer-Foundations) 
+In this course, I've been doing 3 practical projects:
+- [x] [github-slideshow](https://github.com/hosamation/github-slideshow)
+- [x] [github-upload](https://github.com/hosamation/github-upload)
+- [x] [markdown-portfolio](https://github.com/hosamation/markdown-portfolio)
+
+Check Become a Programmer: Foundations [Progress](https://github.com/hosamation/Become-a-Programmer-Foundations)
 
 [Become a Programmer - Foundations][1] is the first part of **[Kalbonyan Elmarsos][2]** Competition
 
